@@ -11,7 +11,7 @@ use rock\db\Expression;
  * To use TimestampBehavior, insert the following code to your ActiveRecord class:
  *
  * ```php
- * use yii\behaviors\TimestampBehavior;
+ * use rock\behaviors\TimestampBehavior;
  *
  * public function behaviors()
  * {
@@ -30,7 +30,7 @@ use rock\db\Expression;
  * and {@see \rock\behaviors\TimestampBehavior::$value} properties like the following:
  *
  * ```php
- * use yii\db\Expression;
+ * use rock\db\Expression;
  *
  * public function behaviors()
  * {
