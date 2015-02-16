@@ -22,6 +22,7 @@
     <filter>
         <blacklist>
             <file>./src/BehaviorException.php</file>
+            <directory>./tests/</directory>
         </blacklist>
     </filter>
     <logging>
