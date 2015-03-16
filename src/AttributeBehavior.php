@@ -74,6 +74,6 @@ class AttributeBehavior extends Behavior
      */
     protected function getValue($event)
     {
-        return $this->value instanceof \Closure ? call_user_func($this->value, $event) : $this->value;
+        return is_callable($this->value) ? call_user_func($this->value, $event) : $this->value;
     }
 } 
