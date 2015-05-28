@@ -2,7 +2,7 @@
 
 namespace rock\behaviors;
 
-use rock\db\BaseActiveRecord;
+use rock\db\common\BaseActiveRecord;
 use rock\db\Expression;
 
 /**
