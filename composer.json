@@ -17,14 +17,14 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "romeoz/rock-components" : "0.11.*",
-        "romeoz/rock-validate" : "0.10.*",
-        "romeoz/rock-sanitize" : "0.10.*"
+        "romeoz/rock-components" : "*@dev",
+        "romeoz/rock-validate" : "*@dev",
+        "romeoz/rock-sanitize" : "*@dev"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.7.0",
-        "romeoz/rock-db" : "0.11.*",
-        "romeoz/rock-db-common" : "0.11.*"
+        "romeoz/rock-db" : "*@dev",
+        "romeoz/rock-db-common" : "*@dev"
     },
     "autoload": {
         "psr-4": {
