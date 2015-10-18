@@ -1,6 +1,6 @@
 {
     "name": "romeoz/rock-behaviors",
-    "description": "Behaviors module for Rock Framework",
+    "description": "[READ ONLY] Behaviors module for Rock Framework",
     "keywords": ["components", "behaviors"],
     "type": "library",
     "license": "MIT",
