@@ -1,4 +1,4 @@
-Behaviors module for [Rock Framework](https://github.com/romeOz/rock)
+Behaviors module for [Rock DB](https://github.com/romeOz/rock-db)
 =================
 
 [![Build Status](https://travis-ci.org/romeOz/rock-behaviors.svg?branch=master)](https://travis-ci.org/romeOz/rock-behaviors)
@@ -13,4 +13,4 @@ Requirements
 License
 -------------------
 
-Behaviors module for [Rock Framework](https://github.com/romeOz/rock) is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Behaviors module for [Rock DB](https://github.com/romeOz/rock-db) is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
